@@ -11,7 +11,7 @@ Items can be added by typing in New Item and pressing "+".
 
 New Lists can be added.
 
-![Uploading todolistPic3.png…]()
+![todolistPic3](https://user-images.githubusercontent.com/80025562/206994076-47428ebf-b9f8-4321-a553-7dd6ea80bd5c.png)
 
 Items can be removed by ticking checkbox.
 
